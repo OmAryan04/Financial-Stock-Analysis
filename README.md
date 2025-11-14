@@ -4,7 +4,6 @@ A Generative AI project using open source LLM and LlamaIndex
 ### Techology used
 
  - Llama Index
- - GPT-4
  - Streamlit
 
 
